@@ -1,1 +1,6 @@
-
+re
+requests
+urllib
+collections
+bs4
+csv
